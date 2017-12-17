@@ -11,7 +11,7 @@ To set up the workspace is a fairly easy process:
 
 .. note::
 
-  In OSX, the command is ``./gradlew`` instand of ``gradlew``
+  In OSX and Linux, the command is ``./gradlew`` instand of ``gradlew``
 
 That's it, really! You now should have a functioning game workspace.
 
